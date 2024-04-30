@@ -1,14 +1,11 @@
-# Hello, I'm [Your Name]! 👋
+# Hola, I'm José! 👋
 
-!Android Development Banner
-
-## About Me
-I'm a passionate native Android developer stepping into the freelance world. With experience developing apps focused on identity, wellbeing, e-commerce, and electronic signatures, I bring a diverse skill set to the table.
+I'm a passionate native Android developer stepping into the freelance world. With experience developing apps focused on identity, wellbeing, e-commerce, and electronic signatures.
 
 ## Skills
 - **Languages:** JAVA, KOTLIN
-- **UI Design:** Jetpack Compose, XML
-- **Backend Integration:** API, Google tools, Firebase
+- **UI Design:** Jetpack Compose, XML, Material Design Guidelines
+- **Backend Integration:** API, Google tools, Firebase, ROOM, Realm
 - **Architecture Patterns:** MVP, MVVM, VIPER
 - **Testing:** Unit Test
 - **Principles:** Clean Architecture, SOLID
@@ -16,5 +13,4 @@ I'm a passionate native Android developer stepping into the freelance world. Wit
 ## Experience
 - **Identity App:** Developed a secure app for identity verification.
 - **Wellbeing App:** Created an app to promote mental and physical health.
-- **E-commerce App:** Built a robust platform for online shopping.
 - **Electronic Signature App:** Implemented a solution for digital
