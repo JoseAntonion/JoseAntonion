@@ -3,7 +3,7 @@
 !Android Development Banner
 
 ## About Me
-I'm a passionate native Android developer stepping into the freelance world. With a rich background in developing apps focused on identity, wellbeing, e-commerce, and electronic signatures, I bring a diverse skill set to the table.
+I'm a passionate native Android developer stepping into the freelance world. With experience developing apps focused on identity, wellbeing, e-commerce, and electronic signatures, I bring a diverse skill set to the table.
 
 ## Skills
 - **Languages:** JAVA, KOTLIN
